@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="pregunts">¿Es guayaquil la ciudad del ecuador con mas habitantes?</string>
+    <string name="verdadero_btn">Verdadero</string>
+    <string name="falso_btn">Falso</string>
+    <string name="previous_btn">Anterior</string>
+    <string name="following_btn">Siguiente</string>
+    <string name="respuesta_btn">Ver Respuesta</string>
+    <string name="correct_toast">Respuesta Correcta</string>
+    <string name="incorrect_toast">Respuesta Incorrecta</string>
+
+    <string name="pregunta_1">Quito es la capital del Ecuador</string>
+    <string name="pregunta_2">Guayaquil es conocida como la Perla del Pacífico</string>
+    <string name="pregunta_3">Riobamba está ubicada en la Provincia de Chimborazo</string>
+    <string name="pregunta_4">Cuenca es conocida por la ribera de su río Tomebamba y los productos artesanales</string>
+    <string name="pregunta_5">Manta está ubicada en la Provincia del Guayas</string>
+
+    <string name="pregunta_txt">¿Esta Seguro que desea ver la Respuesta?</string>
+    <string name="aceptar_btn">Aceptar</string>
+    <string name="volver_btn">Volver</string>
+    <string name="verdadero_txt">La Respuesta es: VERDADERA</string>
+    <string name="falsa_txt">La Respuesta es FALSA</string>
+</resources>
